@@ -1,0 +1,9 @@
+html, body {
+	height: 100%;
+	 background: url(image2.jpg);
+}
+.navbar {
+    background-color: #60a00;
+    text-align:center;
+    display:block;
+}
