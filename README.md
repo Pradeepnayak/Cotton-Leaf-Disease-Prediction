@@ -15,3 +15,9 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 
 ![alt text](https://github.com/Pradeepnayak/Cotton-Leaf-Disease-Prediction/blob/main/templates/Resnet1.png)<br/>
 ![alt text](https://github.com/Pradeepnayak/Cotton-Leaf-Disease-Prediction/blob/main/templates/Resnet2.png)<br/>
+
+
+## 3. RESNET152V2:
+
+![alt text](https://github.com/Pradeepnayak/Cotton-Leaf-Disease-Prediction/blob/main/templates/resnet152V2%201.png)<br/>
+![alt text](https://github.com/Pradeepnayak/Cotton-Leaf-Disease-Prediction/blob/main/templates/resnet152V2%202.png)<br/>
