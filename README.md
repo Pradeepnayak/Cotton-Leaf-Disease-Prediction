@@ -6,3 +6,6 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 # Different Transfer Learning Architecture on Dataset:
 
 ## 1. InceptionNetV3 Performance:
+
+![alt text](https://github.com/Pradeepnayak/Cotton-Leaf-Disease-Prediction/blob/main/templates/Inception1.png)<br/>
+![alt text](https://github.com/Pradeepnayak/Cotton-Leaf-Disease-Prediction/blob/main/templates/Inception2.png)<br/>
